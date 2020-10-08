@@ -1,4 +1,6 @@
-# Betclic Coding Assignment 2020
+# Effectué en 2h30
+
+## Betclic Coding Assignment 2020
 
 The goal of this assignment is to showcase your ability to develop features and your coding style.
 Due to the time constraint you will have to prioritize what you work on,
@@ -11,7 +13,7 @@ Please don't! Do as much as you can in about **two hours** and share the results
 The most important part of the interview will come after this one, when we look at the app together,
 talk about the decisions you have made, etc...
 
-## Ticketing Managing Application
+### Ticketing Managing Application
 
 Build a ticket managing app, where the user can add, filter, assign, and complete tickets.
 
@@ -23,7 +25,7 @@ Two or three tests should be good enough.
 * Don't forget about error handling and race conditions. The API server has a random delay.
 If you bump it up to say 10 seconds, would the app still work correctly?
 
-## Good To Know
+### Good To Know
 
 * Application must have automated tests (type and completeness of the tests are up to you).
 * Application should be optimized for performance.
@@ -31,8 +33,8 @@ If you bump it up to say 10 seconds, would the app still work correctly?
 * (Optional) Application should be split in domain libraries.
 * (Optional) Application should have a good User Experience.
 
-## Submitting your solution
+### Submitting your solution
 
 Please send us the link to your publicly hosted git repository.
 We will continue to work on it during the pair-programming sessions.
-Please also indicate approximately how long you spent on the submission.
+Please also indicate approximately how long you spent on the submission. 2h30
