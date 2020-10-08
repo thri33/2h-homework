@@ -1,0 +1,11 @@
+h3 {
+    color : #cc6633;
+    font : 150% impact, futura, sans-serif;
+    text-transform : uppercase;
+    letter-spacing : 0.3em;
+    text-align : center;
+}
+
+.details {
+    text-align: center;
+}
